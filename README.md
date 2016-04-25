@@ -1,0 +1,2 @@
+# PHPAcademy
+for educational use
